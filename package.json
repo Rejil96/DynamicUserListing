@@ -1,6 +1,6 @@
 {
-  "homepage": "https://Rejil96.github.io/UserListing/",
-  "name": "userlistingapp",
+  "homepage": "https://Rejil96.github.io/DynamicUserListing/",
+  "name": "dynamicuserlisting",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -20,8 +20,7 @@
     "uid": "^2.0.1",
     "vee-validate": "^4.7.4",
     "vue": "^3.2.45",
-    "vue-router": "^4.1.6",
-    "vue3-google-map": "^0.15.0"
+    "vue-router": "^4.1.6"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.0.0",
